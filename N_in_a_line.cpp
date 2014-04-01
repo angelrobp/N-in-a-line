@@ -3,7 +3,7 @@
 * Author: angelrobp
 * Email: info@angelrobledillo.net
 *
-* 								GNU GENERAL PUBLIC LICENSE
+* 					GNU GENERAL PUBLIC LICENSE
 *                     			   Version 2, June 1991
 *
 *			Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
